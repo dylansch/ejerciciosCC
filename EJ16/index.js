@@ -36,4 +36,4 @@ let warWords = (str1,str2) =>{
         return `Empate tecnico!!! las palabras ${str1} y ${str2} tienen el mismo puntaje`  
     }
 }
-console.log(warWords("A","Z"))
+console.log(warWords("love","frienship"))
